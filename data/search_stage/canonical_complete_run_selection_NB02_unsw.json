@@ -1,0 +1,130 @@
+{
+  "dataset": "UNSW-NB15",
+  "model_type": "DAE",
+  "selected_runs": [
+    {
+      "attempt": 1,
+      "config_hash": "05a374cc73d2fb75828cbfc2c62e9b0ffb5fc28312533553321e760cf280e01c",
+      "run_hash": "fca4eb7acaabfff2f2b0e1179ba02449fc66313f227f6c3ed0ddcb1e498098b9",
+      "run_manifest_hash": "c2691080d05900bbe8005128448f3411a71d0d261eaf40195f155aadf5e2f9a8"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "06d358928c1b6ad476bae3f868b8b00b7167bf8a262940669e7ce4935b16ed7e",
+      "run_hash": "1b917b596432bab624e47dd6d0023ea5a3e92112c386428a60aa477bdffb7692",
+      "run_manifest_hash": "6aeca56ebc45d2f3521fc48744358acd5d8d6794cb7e32c1d5f4077ffe992327"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "17a053045009d1b816f0953f4cdc21222ea6ceb1f96670f6de36bf5e7547df54",
+      "run_hash": "b6001248d2823e5121f26413c4928ba3b3d22636f42242b1333a4f8eba9679b6",
+      "run_manifest_hash": "b4b09759d9fd002a8bdf5c053ea0bf3c02854671f511b42a00c8f696ca0f0672"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "20cf1d9dcc185189c23f2feec933c3f375c18f9119fb8f883c876766ab8466a5",
+      "run_hash": "dd34aa37262cdd2b1199a0198fb30194b4f5a13eb28beca74358dae61b78f291",
+      "run_manifest_hash": "d1eb136219d8cce05bab71a20843fd4f6f40a44780a289b7dad0c07a23fbdbfc"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "272a1694f3a47e82831a933e010098087d089c2056e5ac9e5532181be3d6dbcb",
+      "run_hash": "74f0334c8ff79d732948208e527d2950577476a5f61f00d7fb4d2b68de0f7425",
+      "run_manifest_hash": "d3040f45c16c5aa35e22313de1bc2adccb0380467b7c8001d8a0338a90550a32"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "4416b89eadb6910865a90f1079caf3821ddf4938aac3e0c873bbd06d8777a979",
+      "run_hash": "b080253123ef75a3905110e822b87a7db97afab68721013d7deed50b37ff8c40",
+      "run_manifest_hash": "ccbc994a1b25d70d8fabe4ade50889a4a3501d3b8ac12369a728c5539068af30"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "4d1fafb7cb66f2bb37bcae71f80683b241535527a98b4032afe0a6c2cfb8b77e",
+      "run_hash": "eba1f09246201e3a7fcd6e229afb7a0e2fdb7efeb562624baabd8860258fe15f",
+      "run_manifest_hash": "8d3855b8bda9be027e15955b7e3c92a0e4ee637876a13374937efe5129309db2"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "7b39445cd45adf9e172cd81d9cca5b0f5dd11b498cb9ddd0bfbf0ab303efd6d0",
+      "run_hash": "9a8f351e53d6c7e972ad3547731063dfcf46ada31c31d56a9280c5b117eee7ce",
+      "run_manifest_hash": "5759064ade0144d9bc1d6ed06db4c366e87333a4389e9fc235205fa12e2e073b"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "88f7f3d29686d51e7c2d057fb1610d14d437a096dfb44dc9848432173185696b",
+      "run_hash": "ccf6878164823c921936fb2ef2b2de25e9173634a92e23beeac11751b9c31ac6",
+      "run_manifest_hash": "e697bd71e1e41fe0c8134cd0e4b6908deeeb3beac0c565000b25a42b5e0a5b59"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "89f1c56293efd3e3b850d24b92c244c743dff38538c8cb01bdbdd18410e95863",
+      "run_hash": "4347682279f607dab0d52d7221261f9939bc900d75357427ccca61e9a5efee26",
+      "run_manifest_hash": "71ad132d0e999446596c6ea8fe8e5eb63d6db45bf6fa5b2315ef1ef19f7bed31"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "96505ec4be54c18f738aba604cfe9284bf49e066c8b44c5757736b4949b22e3a",
+      "run_hash": "14a33380b9940d6728c3c1ef75194df21f02e2937bd1065ec6037934005f1808",
+      "run_manifest_hash": "5f9c370e89849125d558765100619027ae43346e5fea09638980b1a76059b738"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "b0532eb6391f9b1c070a3c2c4fe844193727a2bf84c145e21806d731facb9ba9",
+      "run_hash": "d1a06c608b1d9ac003baf8112a19296187b98c14d07dcef301124c86dbfc816f",
+      "run_manifest_hash": "6225a0a70070fb7cb8092a9947ce4c10636c7f2edeb67847e5979a92e1a67765"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "b113c871f01af610c3eeafe629fda8ce857318d4aaa47e13d398cf8bd3b3f8f4",
+      "run_hash": "486d28bc4b690e9935fd51ffb525e492a1da5b75023e6515bf2ee1f19af52257",
+      "run_manifest_hash": "383d0b5e07089ee011e47893059b4af9dd0cafbd168b38673df2db859cd2e2ba"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "b9b42f8b482f7a5a2e4285ebb8f9325bae679a618279d917f2ead469ba993013",
+      "run_hash": "105559b73ae3dac80d56eb9e424b48ef3cc869fe07f3c3cc20d2eb0b038c009c",
+      "run_manifest_hash": "c91690d40fcac88a17122855c1a2a65bf70835394aecca822c8080b100736cf6"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "bc6ddfa445b164bb2ef0bb36fcb6bf789bdbab2dc79cf16f6162d7178cae9bdd",
+      "run_hash": "7d013a8400ba5d3ef5131864212aa901259a2d5f3ed51d60846f1dbc2acd04ec",
+      "run_manifest_hash": "3a9cf98df66a7b0726e8b4814ca0b5b1ecc483668cadf315501d6ee2aedfdf2f"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "cd6efedbbadd49016d18c959a80d4eb1e642015b7af73373b9dcf2cb09ee9cef",
+      "run_hash": "2b146cef81ea5b1e3dfd6254f37e61389bcc94db1afc69f448e5b7e7488addc7",
+      "run_manifest_hash": "c3406150951d43b55d3fbdaba16e7622bfb8ee2fbc2facd4bc9ef01e2671808b"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "d2c231b4db43b58c51ac496b49bec5783c92e2292471726df483edce95de5126",
+      "run_hash": "d825bee3e93d8723c4959785ce1bb26c194cbff03041a96d95c8dea823077764",
+      "run_manifest_hash": "ee5777d17d96d616e4389c49f5b4626f31ab00db55dd5dce4f5b2582738984dd"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "d53e06a6b504e8ced79931fc29cf64b086f98761d7e16e6c162ed13e89bd217f",
+      "run_hash": "0742c8b9480d30dae55d373085c96d2fd5ac169c27bae287d12260228ad14d67",
+      "run_manifest_hash": "3fde2597872f1581dc89564f086f79027d63e3cd6286bfc12e2ae0fdc224aea5"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "e62ac14824bb79320b96b0644621c87618e9f5e1da5a99675b5e615f600a209e",
+      "run_hash": "4aed463b12fb6bf34d3ea17b3a7ba400ad30888014e2e8e68c2373661829854b",
+      "run_manifest_hash": "9dc47dc15204c7155a897a6d8d262f2e2c2acb284d5f89c85770d3e5cc5e633a"
+    },
+    {
+      "attempt": 1,
+      "config_hash": "efc7b06f35beb5ad266889160fe77a2ebab33277817995889846dfd0512431e9",
+      "run_hash": "a88fb5897e32072aa17af5699a52e96e63d2b9b405fb0181717b35898b5252db",
+      "run_manifest_hash": "f2e55a14f70aa54cae6bdcb39a2f988a7f83a4e60c486e8bf362593849a7f99a"
+    }
+  ],
+  "selection_rule": "lowest successful attempt; then earliest created_at_utc; then lexicographically smallest run_hash",
+  "selection_rule_uses_performance": false,
+  "stage": "Notebook_02_dae_search",
+  "unique_configurations": 20
+}

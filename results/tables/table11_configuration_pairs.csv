@@ -1,0 +1,3 @@
+dataset,n_pairs,n_benign_dev,n_attack_dev,FP_min,FP_max,FPR_min_pct,FPR_max_pct,median_abs_dTP,median_abs_dFP,n_dMCC_pos,sign_dMCC_equals_sign_dTP,n_I,n_I_given_dMCC_pos,n_II,n_II_given_dMCC_pos,n_III,n_III_given_dMCC_pos,n_IV,n_IV_given_dMCC_pos,n_AE_configs_in_dominance_and_tradeoff,n_DAE_configs_in_dominance_and_tradeoff,pct_II_given_dMCC_pos,pct_I_given_dMCC_pos
+CICIDS2017,400,227309,218394,2072,2268,0.9115345190907531,0.9977607573831216,7085.5,33.5,198,397,68,68,129,128,92,0,111,2,20,20,64.64646464646465,34.343434343434346
+UNSW-NB15,400,221876,128513,2077,3155,0.9361084569759686,1.421965422127675,6937.0,96.0,142,393,24,24,119,115,117,0,140,3,20,20,80.98591549295774,16.901408450704224

@@ -1,0 +1,5 @@
+dataset,model,notebook,file,rows,sha256
+CICIDS2017,AE,01,ranked_trials_NB01_cicids.csv,20,cd27af882bbf9c1cb4b3398a4a8a1fafac4a6795c7fef13414fadf8afde91442
+CICIDS2017,DAE,02,ranked_trials_NB02_cicids.csv,20,a1313aee83422ab2575a10c4252482507ed3897e70f67b966a3acf4623776ac1
+UNSW-NB15,AE,01,ranked_trials_NB01_unsw.csv,20,e95cba0f2e0152cdaf011fafd107810cbf792c1bb089a283a8bbc2f2f46a427b
+UNSW-NB15,DAE,02,ranked_trials_NB02_unsw.csv,20,c4df3007ecfce9a087f30e10cb86e427655a9628a90f5f04fcea73c75214ef51

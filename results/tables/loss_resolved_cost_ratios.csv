@@ -1,0 +1,3 @@
+dataset,rho_lower,rho_upper,favoured
+CICIDS2017,0.0,275.7817345401485,AE
+UNSW-NB15,0.0,0.7821898681457343,DAE

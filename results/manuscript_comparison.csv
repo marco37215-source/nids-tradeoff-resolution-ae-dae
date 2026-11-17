@@ -1,0 +1,379 @@
+where,key,reported,reproduced,kind,match
+Section 3.5,cic.n_rows,668562,668562,exact,True
+Section 3.2; Table 4 caption,cic.n_benign,340967,340967,exact,True
+Section 3.2; Table 4 caption,cic.n_attack,327595,327595,exact,True
+Section 3.5,unsw.n_rows,525584,525584,exact,True
+Section 3.2; Table 4 caption,unsw.n_benign,332814,332814,exact,True
+Section 3.2; Table 4 caption,unsw.n_attack,192770,192770,exact,True
+Section 3.2,cic.attack_prevalence,0.49,0.48999943161591597,rounded,True
+Section 3.2,unsw.attack_prevalence,0.367,0.3667729611251484,rounded,True
+Section 4.4,unsw.attack_prevalence,36.68,0.3667729611251484,rounded,True
+Table 4,cic.ae.MCC_mean,0.522889,0.5228894992230995,rounded,True
+Table 4,cic.ae.MCC_sd,0.003799,0.0037988130260279843,rounded,True
+Table 4,cic.ae.Recall_mean,0.445567,0.4455666295273127,rounded,True
+Table 4,cic.ae.Recall_sd,0.004949,0.004949215098508185,rounded,True
+Table 4,cic.ae.PR-AUC_mean,0.861488,0.8614875771870049,rounded,True
+Table 4,cic.ae.PR-AUC_sd,0.020525,0.02052457174687132,rounded,True
+Table 4,cic.ae.FPR_mean,0.009902,0.009901838007783745,rounded,True
+Table 4,cic.ae.FPR_sd,0.0002,0.0002004480716745109,rounded,True
+Table 4,cic.ae.FP_per_1000_benign_mean,9.902,9.901838007783747,rounded,True
+Table 4,cic.ae.mean_TP,145965.4,145965.4,rounded,True
+Table 4,cic.ae.mean_FP,3376.2,3376.2,rounded,True
+Table 4,cic.ae.mean_FN,181629.6,181629.6,rounded,True
+Table 4,cic.dae.MCC_mean,0.517382,0.5173816910719726,rounded,True
+Table 4,cic.dae.MCC_sd,0.001169,0.0011692531164505047,rounded,True
+Table 4,cic.dae.Recall_mean,0.439068,0.43906775133930614,rounded,True
+Table 4,cic.dae.Recall_sd,0.00156,0.0015604196662055763,rounded,True
+Table 4,cic.dae.PR-AUC_mean,0.84853,0.8485295128746504,rounded,True
+Table 4,cic.dae.PR-AUC_sd,0.018051,0.01805142733149786,rounded,True
+Table 4,cic.dae.FPR_mean,0.010122,0.010121800643464029,rounded,True
+Table 4,cic.dae.FPR_sd,0.000164,0.00016434871249299007,rounded,True
+Table 4,cic.dae.FP_per_1000_benign_mean,10.122,10.12180064346403,rounded,True
+Table 4,cic.dae.mean_TP,143836.4,143836.4,rounded,True
+Table 4,cic.dae.mean_FP,3451.2,3451.2,rounded,True
+Table 4,cic.dae.mean_FN,183758.6,183758.6,rounded,True
+Table 4,unsw.ae.MCC_mean,0.904585,0.9045852412145431,rounded,True
+Table 4,unsw.ae.MCC_sd,0.004759,0.004759300899498054,rounded,True
+Table 4,unsw.ae.Recall_mean,0.895536,0.8955356123878196,rounded,True
+Table 4,unsw.ae.Recall_sd,0.006439,0.006439379453893695,rounded,True
+Table 4,unsw.ae.PR-AUC_mean,0.981355,0.981354955639213,rounded,True
+Table 4,unsw.ae.PR-AUC_sd,0.005547,0.005547434538957722,rounded,True
+Table 4,unsw.ae.FPR_mean,0.009814,0.009814490976942074,rounded,True
+Table 4,unsw.ae.FPR_sd,0.000317,0.0003169945884685096,rounded,True
+Table 4,unsw.ae.FP_per_1000_benign_mean,9.814,9.814490976942077,rounded,True
+Table 4,unsw.ae.mean_TP,172632.4,172632.4,rounded,True
+Table 4,unsw.ae.mean_FP,3266.4,3266.4,rounded,True
+Table 4,unsw.ae.mean_FN,20137.6,20137.6,rounded,True
+Table 4,unsw.dae.MCC_mean,0.907611,0.9076105363159996,rounded,True
+Table 4,unsw.dae.MCC_sd,0.004051,0.004051310102646744,rounded,True
+Table 4,unsw.dae.Recall_mean,0.899947,0.8999470872023656,rounded,True
+Table 4,unsw.dae.Recall_sd,0.005446,0.005446188477479268,rounded,True
+Table 4,unsw.dae.PR-AUC_mean,0.975784,0.9757842792917266,rounded,True
+Table 4,unsw.dae.PR-AUC_sd,0.003544,0.0035439522212664383,rounded,True
+Table 4,unsw.dae.FPR_mean,0.010088,0.0100879169746465,rounded,True
+Table 4,unsw.dae.FPR_sd,0.000338,0.0003380606968532774,rounded,True
+Table 4,unsw.dae.FP_per_1000_benign_mean,10.088,10.0879169746465,rounded,True
+Table 4,unsw.dae.mean_TP,173482.8,173482.8,rounded,True
+Table 4,unsw.dae.mean_FP,3357.4,3357.4,rounded,True
+Table 4,unsw.dae.mean_FN,19287.2,19287.2,rounded,True
+Section 4.1,cic.diff.MCC.mean,-0.005508,-0.005507808151126903,rounded,True
+Section 4.1,cic.diff.MCC.boot_lo,-0.00817,-0.008170311744733639,rounded,True
+Section 4.1,cic.diff.MCC.boot_hi,-0.002845,-0.0028453045575201675,rounded,True
+Section 4.1,cic.diff.MCC.d_z,-1.569,-1.569433788026689,rounded,True
+Section 4.1,cic.diff.Recall.mean,-0.006499,-0.006498878188006529,rounded,True
+Section 4.1,cic.diff.Recall.boot_lo,-0.009926,-0.009925670416215138,rounded,True
+Section 4.1,cic.diff.Recall.boot_hi,-0.003128,-0.003128252873212356,rounded,True
+Section 4.1,cic.diff.Recall.d_z,-1.433,-1.4330627162356917,rounded,True
+Section 4.1,cic.diff.MCC.n_DAE_higher,0,0,exact,True
+Section 4.1,cic.diff.Recall.n_DAE_higher,0,0,exact,True
+Section 4.1,cic.diff.PR-AUC.mean,-0.012958,-0.012958064312354444,rounded,True
+Section 4.1,cic.diff.PR-AUC.boot_lo,-0.018171,-0.018171163791687973,rounded,True
+Section 4.1,cic.diff.PR-AUC.boot_hi,-0.007694,-0.007693674470434298,rounded,True
+Section 4.1,cic.diff.PR-AUC.d_z,-2.003,-2.0029623312034004,rounded,True
+Section 4.1,cic.diff.PR-AUC.n_DAE_higher,0,0,exact,True
+Section 4.1,cic.mean_dTP,-2129.0,-2129.0,rounded,True
+Section 4.1,cic.mean_dFP,75.0,75.0,rounded,True
+Section 4.1,cic.mean_dFP_per_1000_benign,0.22,0.21996263568028576,rounded,True
+Section 4.1,cic.diff.FP_per_1000_benign.boot_lo,0.069,0.0686283423322486,rounded,True
+Section 4.1,cic.diff.FP_per_1000_benign.boot_hi,0.371,0.3712969290283226,rounded,True
+Section 4.1,cic.diff.FPR.boot_lo,6.9e-05,6.86283423322484e-05,rounded,True
+Section 4.1,cic.diff.FPR.boot_hi,0.000371,0.00037129692902832244,rounded,True
+Section 4.1,cic.diff.FP_per_1000_benign.d_z,1.103,1.1034185368809326,rounded,True
+Section 4.1,cic.diff.FP_per_1000_benign.t_lo,-0.028,-0.027558750398887777,rounded,True
+Section 4.1,cic.diff.FP_per_1000_benign.t_hi,0.467,0.46748402175945897,rounded,True
+Section 4.1,cic.diff.FP_per_1000_benign.t_p,0.0691,0.06914552190293384,rounded,True
+Sections 3.11 and 4.1,min_exact_p_value_n5,0.0625,0.0625,rounded,True
+Section 4.1,unsw.diff.MCC.mean,0.003025,0.0030252951014566377,rounded,True
+Section 4.1,unsw.diff.MCC.boot_lo,0.001076,0.0010760946254391613,rounded,True
+Section 4.1,unsw.diff.MCC.boot_hi,0.005099,0.0050985514308375945,rounded,True
+Section 4.1,unsw.diff.MCC.d_z,1.177,1.176578324522734,rounded,True
+Section 4.1,unsw.diff.Recall.mean,0.004411,0.004411474814545846,rounded,True
+Section 4.1,unsw.diff.Recall.boot_lo,0.00191,0.0019100482440213896,rounded,True
+Section 4.1,unsw.diff.Recall.boot_hi,0.006913,0.006912901385070303,rounded,True
+Section 4.1,unsw.diff.Recall.d_z,1.377,1.376524369582494,rounded,True
+Section 4.1,unsw.diff.MCC.n_DAE_higher,5,5,exact,True
+Section 4.1,unsw.diff.Recall.n_DAE_higher,5,5,exact,True
+Section 4.1,unsw.diff.MCC.t_lo,-0.000167,-0.00016735253884785344,rounded,True
+Section 4.1,unsw.diff.MCC.t_hi,0.006218,0.006217942741761129,rounded,True
+Section 4.1,unsw.diff.MCC.t_p,0.0581,0.05813082558834272,rounded,True
+Section 4.1,unsw.diff.Recall.t_lo,0.000432,0.0004321994909527111,rounded,True
+Section 4.1,unsw.diff.Recall.t_hi,0.008391,0.008390750138138982,rounded,True
+Section 4.1,unsw.diff.Recall.t_p,0.037,0.03700346755946091,rounded,True
+Section 4.1,unsw.diff.PR-AUC.mean,-0.005571,-0.005570676347486425,rounded,True
+Section 4.1,unsw.diff.PR-AUC.boot_lo,-0.012528,-0.012528434873456673,rounded,True
+Section 4.1,unsw.diff.PR-AUC.boot_hi,0.000499,0.0004990392395974874,rounded,True
+Section 4.1,unsw.diff.PR-AUC.d_z,-0.665,-0.665000653650981,rounded,True
+Section 4.1,unsw.diff.PR-AUC.seeds_DAE_higher,"202, 303","202, 303",exact,True
+Section 4.1,unsw.mean_dTP,850.4,850.4,rounded,True
+Section 4.1,unsw.mean_dFP,91.0,91.0,rounded,True
+Section 4.1,unsw.mean_dFP_per_1000_benign,0.273,0.2734259977044235,rounded,True
+Section 4.1,unsw.diff.FP_per_1000_benign.boot_lo,-0.138,-0.13821533949893877,rounded,True
+Section 4.1,unsw.diff.FP_per_1000_benign.boot_hi,0.709,0.7085038489967378,rounded,True
+Section 4.1,unsw.diff.FP_per_1000_benign.n_DAE_higher,4,4,exact,True
+Section 3.11,unsw.diff.FPR.boot_hi,0.733,0.0007325412993443786,rounded,True
+Table 5,cic.seed101.dTP,-4255,-4255,exact,True
+Table 5,cic.seed101.dFP,21,21,exact,True
+Table 5,cic.seed101.state,III,III,exact,True
+Table 5,cic.seed202.dTP,-667,-667,exact,True
+Table 5,cic.seed202.dFP,153,153,exact,True
+Table 5,cic.seed202.state,III,III,exact,True
+Table 5,cic.seed303.dTP,-2230,-2230,exact,True
+Table 5,cic.seed303.dFP,37,37,exact,True
+Table 5,cic.seed303.state,III,III,exact,True
+Table 5,cic.seed404.dTP,-780,-780,exact,True
+Table 5,cic.seed404.dFP,19,19,exact,True
+Table 5,cic.seed404.state,III,III,exact,True
+Table 5,cic.seed505.dTP,-2713,-2713,exact,True
+Table 5,cic.seed505.dFP,145,145,exact,True
+Table 5,cic.seed505.state,III,III,exact,True
+Table 5,unsw.seed101.dTP,217,217,exact,True
+Table 5,unsw.seed101.dFP,171,171,exact,True
+Table 5,unsw.seed101.state,II,II,exact,True
+Table 5,unsw.seed202.dTP,1472,1472,exact,True
+Table 5,unsw.seed202.dFP,-136,-136,exact,True
+Table 5,unsw.seed202.state,I,I,exact,True
+Table 5,unsw.seed303.dTP,385,385,exact,True
+Table 5,unsw.seed303.dFP,60,60,exact,True
+Table 5,unsw.seed303.state,II,II,exact,True
+Table 5,unsw.seed404.dTP,1541,1541,exact,True
+Table 5,unsw.seed404.dFP,353,353,exact,True
+Table 5,unsw.seed404.state,II,II,exact,True
+Table 5,unsw.seed505.dTP,637,637,exact,True
+Table 5,unsw.seed505.dFP,7,7,exact,True
+Table 5,unsw.seed505.state,II,II,exact,True
+Table 5; Section 4.4,unsw.seed101.rho_star,1.269,1.2690058479532165,rounded,True
+Table 5; Section 4.4,unsw.seed303.rho_star,6.417,6.416666666666667,rounded,True
+Table 5; Section 4.4,unsw.seed404.rho_star,4.365,4.36543909348442,rounded,True
+Table 5; Section 4.4,unsw.seed505.rho_star,91.0,91.0,rounded,True
+Table 6,cic.paths.n_I,0,0,exact,True
+Table 6,cic.paths.pct_I,0.0,0.0,rounded,True
+Table 6,cic.paths.n_II,0,0,exact,True
+Table 6,cic.paths.pct_II,0.0,0.0,rounded,True
+Table 6,cic.paths.n_III,3125,3125,exact,True
+Table 6,cic.paths.pct_III,100.0,100.0,rounded,True
+Table 6,cic.paths.n_IV,0,0,exact,True
+Table 6,cic.paths.pct_IV,0.0,0.0,rounded,True
+Table 6,unsw.paths.n_I,356,356,exact,True
+Table 6,unsw.paths.pct_I,11.39,11.392,rounded,True
+Table 6,unsw.paths.n_II,2769,2769,exact,True
+Table 6,unsw.paths.pct_II,88.61,88.608,rounded,True
+Table 6,unsw.paths.n_III,0,0,exact,True
+Table 6,unsw.paths.pct_III,0.0,0.0,rounded,True
+Table 6,unsw.paths.n_IV,0,0,exact,True
+Table 6,unsw.paths.pct_IV,0.0,0.0,rounded,True
+Table 6,unsw.paths.total,3125,3125,exact,True
+Table 6,cic.paths.total,3125,3125,exact,True
+Section 4.3,unsw.paths.with_202.n_I,356,356,exact,True
+Section 4.3,unsw.paths.without_202.n,1024,1024,exact,True
+Section 4.3,unsw.paths.without_202.n_II,1024,1024,exact,True
+Section 4.4,unsw.rho_mean,9.345,9.345054945054946,rounded,True
+Section 4.4,unsw.rho_star.min,1.269,1.2690058479532165,rounded,True
+Section 4.4,unsw.rho_star.max,91.0,91.0,rounded,True
+Section 4.4,unsw.rho_star.fold_range,71.7,71.70967741935483,rounded,True
+Table 7,unsw.map.0.000_1.269.DAE_count,5,5,exact,True
+Table 7,unsw.map.0.000_1.269.DAE_seeds,"101, 202, 303, 404, 505","101, 202, 303, 404, 505",exact,True
+Table 7,unsw.map.1.269_4.365.DAE_count,4,4,exact,True
+Table 7,unsw.map.1.269_4.365.DAE_seeds,"202, 303, 404, 505","202, 303, 404, 505",exact,True
+Table 7,unsw.map.4.365_6.417.DAE_count,3,3,exact,True
+Table 7,unsw.map.4.365_6.417.DAE_seeds,"202, 303, 505","202, 303, 505",exact,True
+Table 7,unsw.map.6.417_91.000.DAE_count,2,2,exact,True
+Table 7,unsw.map.6.417_91.000.DAE_seeds,"202, 505","202, 505",exact,True
+Table 7,unsw.map.91.000_inf.DAE_count,1,1,exact,True
+Table 7,unsw.map.91.000_inf.DAE_seeds,202,202,exact,True
+Section 4.5,unsw.mcnemar.seed101.net_DAE_gain,46,46,exact,True
+Section 4.5,unsw.mcnemar.seed202.net_DAE_gain,1608,1608,exact,True
+Section 4.5,unsw.mcnemar.seed303.net_DAE_gain,325,325,exact,True
+Section 4.5,unsw.mcnemar.seed404.net_DAE_gain,1188,1188,exact,True
+Section 4.5,unsw.mcnemar.seed505.net_DAE_gain,630,630,exact,True
+Section 4.5,unsw.mcnemar.seed101.p,0.49,0.4921610132177396,rounded,True
+Section 4.5,unsw.mcnemar.seed202.p,3.1e-07,7.139157643026821e-93,at_most,True
+Section 4.5,unsw.mcnemar.seed303.p,3.1e-07,3.058250104629806e-07,at_most,True
+Section 4.5,unsw.mcnemar.seed404.p,3.1e-07,3.7248626898078705e-47,at_most,True
+Section 4.5,unsw.mcnemar.seed505.p,3.1e-07,6.057282758523922e-19,at_most,True
+Section 4.5,cic.mcnemar.seed101.net_DAE_gain,-4276,-4276,exact,True
+Section 4.5,cic.mcnemar.seed101.p,1e-41,0.0,less_than,True
+Section 4.5,cic.mcnemar.seed202.net_DAE_gain,-820,-820,exact,True
+Section 4.5,cic.mcnemar.seed202.p,1e-41,7.984216991372288e-43,less_than,True
+Section 4.5,cic.mcnemar.seed303.net_DAE_gain,-2267,-2267,exact,True
+Section 4.5,cic.mcnemar.seed303.p,1e-41,4.557012364846578e-217,less_than,True
+Section 4.5,cic.mcnemar.seed404.net_DAE_gain,-799,-799,exact,True
+Section 4.5,cic.mcnemar.seed404.p,1e-41,4.8834774856473976e-42,less_than,True
+Section 4.5,cic.mcnemar.seed505.net_DAE_gain,-2858,-2858,exact,True
+Section 4.5,cic.mcnemar.seed505.p,1e-41,0.0,less_than,True
+Table 8,cic.ae.r_FN_median_mean,0.0332,0.03317828346455572,rounded,True
+Table 8,cic.ae.r_FN_median_min,0.0182,0.018246909061300446,rounded,True
+Table 8,cic.ae.r_FN_median_max,0.0441,0.04414246661221695,rounded,True
+Table 8,cic.ae.P_overlap_pct_mean,7.15,7.145896610143621,rounded,True
+Table 8,cic.ae.P_overlap_pct_min,4.72,4.715883942062608,rounded,True
+Table 8,cic.ae.P_overlap_pct_max,11.8,11.802988446099604,rounded,True
+Table 8,cic.dae.r_FN_median_mean,0.0294,0.02940187926148462,rounded,True
+Table 8,cic.dae.r_FN_median_min,0.0147,0.014654100373065707,rounded,True
+Table 8,cic.dae.r_FN_median_max,0.0431,0.04305015747500375,rounded,True
+Table 8,cic.dae.P_overlap_pct_mean,10.92,10.919336375707811,rounded,True
+Table 8,cic.dae.P_overlap_pct_min,8.51,8.508982127321845,rounded,True
+Table 8,cic.dae.P_overlap_pct_max,12.5,12.50324333399472,rounded,True
+Table 8,unsw.ae.r_FN_median_mean,0.1767,0.17665337336955306,rounded,True
+Table 8,unsw.ae.r_FN_median_min,0.1463,0.14625713655717815,rounded,True
+Table 8,unsw.ae.r_FN_median_max,0.2097,0.2096836004501878,rounded,True
+Table 8,unsw.ae.P_overlap_pct_mean,0.0,0.0,rounded,True
+Table 8,unsw.ae.P_overlap_pct_min,0.0,0.0,rounded,True
+Table 8,unsw.ae.P_overlap_pct_max,0.0,0.0,rounded,True
+Table 8,unsw.dae.r_FN_median_mean,0.2183,0.21827825874257853,rounded,True
+Table 8,unsw.dae.r_FN_median_min,0.1771,0.17706152714591192,rounded,True
+Table 8,unsw.dae.r_FN_median_max,0.2433,0.24329392276842532,rounded,True
+Table 8,unsw.dae.P_overlap_pct_mean,0.0007,0.0007262540851792291,rounded,True
+Table 8,unsw.dae.P_overlap_pct_min,0.0,0.0,rounded,True
+Table 8,unsw.dae.P_overlap_pct_max,0.0016,0.001556258753955491,rounded,True
+Section 4.6,unsw.dae.max_attacks_below_benign_median_in_any_seed,3,3.0,at_most,True
+Section 4.6,unsw.ae.max_attacks_below_benign_median_in_any_seed,0.0,0.0,exact,True
+Section 5.2,unsw.seed202.dFP_pct_points_of_FPR,0.041,0.040863665590990764,rounded,True
+Section 5.2,unsw.seed505.dFP_pct_points_of_FPR,0.002,0.0021032769054186422,rounded,True
+Section 5.3,unsw.rho_mean_at_pi_0_01,0.163,0.1629704272314637,rounded,True
+Section 5.3,unsw.seed101.rho_star_at_pi_0_01,0.022,0.02213046647838041,rounded,True
+Section 5.3,unsw.seed505.rho_star_at_pi_0_01,1.587,1.5869686123045048,rounded,True
+Section 5.3,unsw.inverse_rho_mean_at_pi_0_01,6.1,6.136082582514923,rounded,True
+Section 4.4,unsw.paths.rho_star.min,1.269,1.2690058479532165,rounded,True
+Section 4.4,unsw.paths.rho_star.min_path,"101, 101, 101, 101, 101","101, 101, 101, 101, 101",exact,True
+Section 4.4,unsw.paths.rho_star.max,1268.4,1268.4,rounded,True
+Section 4.4,unsw.paths.rho_star.max_path,"202, 202, 202, 303, 404","202, 202, 202, 303, 404",exact,True
+Section 4.4,unsw.paths.rho_star.max_dTP,6342,6342,exact,True
+Section 4.4,unsw.paths.rho_star.max_dFP,5,5,exact,True
+Section 4.5,cic.mcnemar.discordant_min,3481,3481,exact,True
+Section 4.5,cic.mcnemar.discordant_max,7138,7138,exact,True
+Section 4.5,unsw.mcnemar.discordant_min,4009,4009,exact,True
+Section 4.5,unsw.mcnemar.discordant_max,6808,6808,exact,True
+Table 9,cic.res.TP.ae_sd,1621.3,1621.3381201957843,rounded,True
+Table 9,cic.res.TP.dae_sd,511.2,511.18568055061957,rounded,True
+Table 9,cic.res.TP.corr,0.41,0.4120111122488498,rounded,True
+Table 9,cic.res.TP.t_lo,-3973.7,-3973.652451163938,rounded,True
+Table 9,cic.res.TP.t_hi,-284.3,-284.34754883606183,rounded,True
+Table 9,cic.res.TP.t_p,0.033,0.032762347467022536,rounded,True
+Table 9,cic.res.TP.resolved,yes,yes,exact,True
+Table 9,cic.res.FP.ae_sd,68.3,68.34617765464284,rounded,True
+Table 9,cic.res.FP.dae_sd,56.0,56.0374874525973,rounded,True
+Table 9,cic.res.FP.corr,0.42,0.41663750256857907,rounded,True
+Table 9,cic.res.FP.t_lo,-9.4,-9.396624447257238,rounded,True
+Table 9,cic.res.FP.t_hi,159.4,159.39662444725724,rounded,True
+Table 9; Section 4.7,cic.res.FP.t_p,0.069,0.06914552190293309,rounded,True
+Table 9,cic.res.FP.resolved,no,no,exact,True
+Table 9,unsw.res.TP.ae_sd,1241.3,1241.3191773270887,rounded,True
+Table 9,unsw.res.TP.dae_sd,1049.9,1049.8617528036727,rounded,True
+Table 9; Section 4.7,unsw.res.TP.corr,0.87,0.8676326452387566,rounded,True
+Table 9; Abstract,unsw.res.TP.t_lo,83.3,83.3150958709507,rounded,True
+Table 9; Abstract,unsw.res.TP.t_hi,1617.5,1617.4849041290493,rounded,True
+Table 9,unsw.res.TP.t_p,0.037,0.03700346755946137,rounded,True
+Table 9,unsw.res.TP.resolved,yes,yes,exact,True
+Table 9; Section 4.7,unsw.res.FP.ae_sd,105.5,105.50023696655852,rounded,True
+Table 9; Section 4.7,unsw.res.FP.dae_sd,112.5,112.51133276252665,rounded,True
+Table 9; Section 4.7,unsw.res.FP.corr,-0.42,-0.4152663450901699,rounded,True
+Table 9; Abstract,unsw.res.FP.t_lo,-136.8,-136.76159208158623,rounded,True
+Table 9; Abstract,unsw.res.FP.t_hi,318.8,318.76159208158623,rounded,True
+Table 9; Section 4.7,unsw.res.FP.t_p,0.329,0.3294978754424757,rounded,True
+Table 9,unsw.res.FP.resolved,no,no,exact,True
+Section 4.7; Section 5.4,cic.res.identified_state,III or IV,III or IV,exact,True
+Section 4.7,unsw.res.identified_state,I or II,I or II,exact,True
+Section 4.7,unsw.res.FP.nominal_1pct,3328.1,3328.14,rounded,True
+Section 4.7,cic.res.FP.nominal_1pct,3409.7,3409.67,rounded,True
+Section 4.7,unsw.res.FP.ae_min,3109,3109.0,exact,True
+Section 4.7,unsw.res.FP.ae_max,3394,3394.0,exact,True
+Section 4.7,unsw.res.FP.dae_min,3241,3241.0,exact,True
+Section 4.7,unsw.res.FP.dae_max,3484,3484.0,exact,True
+Section 4.7,cic.res.FP.ae_min,3279,3279.0,exact,True
+Section 4.7,cic.res.FP.ae_max,3462,3462.0,exact,True
+Section 4.7,cic.res.FP.dae_min,3377,3377.0,exact,True
+Section 4.7,cic.res.FP.dae_max,3515,3515.0,exact,True
+Section 4.7,unsw.cross25.n_II,16,16,exact,True
+Section 4.7,unsw.cross25.n_I,4,4,exact,True
+Section 4.7,unsw.cross25.n_IV,3,3,exact,True
+Section 4.7,unsw.cross25.n_III,2,2,exact,True
+Section 4.7,cic.cross25.n_III,19,19,exact,True
+Section 4.7,cic.cross25.n_IV,4,4,exact,True
+Section 4.7,cic.cross25.n_II,2,2,exact,True
+Table 11,cic.conf.n_I,68,68,exact,True
+Table 11,cic.conf.n_II,129,129,exact,True
+Table 11,cic.conf.n_III,92,92,exact,True
+Table 11,cic.conf.n_IV,111,111,exact,True
+Table 11; Section 4.8,cic.conf.n_dMCC_pos,198,198,exact,True
+Table 11,cic.conf.n_I_given_dMCC_pos,68,68,exact,True
+Table 11; Section 4.8,cic.conf.n_II_given_dMCC_pos,128,128,exact,True
+Table 11,cic.conf.n_IV_given_dMCC_pos,2,2,exact,True
+Table 11; Section 4.8,cic.conf.n_pairs,400,400,exact,True
+Table 11,unsw.conf.n_I,24,24,exact,True
+Table 11,unsw.conf.n_II,119,119,exact,True
+Table 11,unsw.conf.n_III,117,117,exact,True
+Table 11,unsw.conf.n_IV,140,140,exact,True
+Table 11; Section 4.8,unsw.conf.n_dMCC_pos,142,142,exact,True
+Table 11,unsw.conf.n_I_given_dMCC_pos,24,24,exact,True
+Table 11; Section 4.8,unsw.conf.n_II_given_dMCC_pos,115,115,exact,True
+Table 11,unsw.conf.n_IV_given_dMCC_pos,3,3,exact,True
+Table 11; Section 4.8,unsw.conf.n_pairs,400,400,exact,True
+Table 11,cic.conf.median_abs_dTP,7085.5,7085.5,rounded,True
+Table 11,cic.conf.median_abs_dFP,33.5,33.5,rounded,True
+Table 11,unsw.conf.median_abs_dTP,6937,6937.0,rounded,True
+Table 11,unsw.conf.median_abs_dFP,96,96.0,rounded,True
+Section 4.8,cic.conf.pct_II_given_dMCC_pos,64.6,64.64646464646465,rounded,True
+Section 4.8,unsw.conf.pct_II_given_dMCC_pos,81.0,80.98591549295774,rounded,True
+Section 4.8,cic.conf.sign_dMCC_equals_sign_dTP,397,397,exact,True
+Section 4.8,unsw.conf.sign_dMCC_equals_sign_dTP,393,393,exact,True
+Section 4.8,cic.conf.FPR_min_pct,0.91,0.9115345190907531,rounded,True
+Section 4.8,cic.conf.FPR_max_pct,1.0,0.9977607573831216,rounded,True
+Section 4.8,unsw.conf.FPR_min_pct,0.94,0.9361084569759686,rounded,True
+Section 4.8,unsw.conf.FPR_max_pct,1.42,1.421965422127675,rounded,True
+Section 3.3,cic.conf.n_attack_dev,218394,218394,exact,True
+Section 3.3,cic.conf.n_benign_dev,227309,227309,exact,True
+Section 3.3,unsw.conf.n_attack_dev,128513,128513,exact,True
+Section 3.3,unsw.conf.n_benign_dev,221876,221876,exact,True
+Table 9,cic.res.TP.sign_test_p,0.0625,0.0625,rounded,True
+Table 9,cic.res.FP.sign_test_p,0.0625,0.0625,rounded,True
+Table 9,unsw.res.TP.sign_test_p,0.0625,0.0625,rounded,True
+Table 9,unsw.res.FP.sign_test_p,0.375,0.375,rounded,True
+Table 10,cic.loss.rho0.1.mean,2136.5,2136.5,rounded,True
+Table 10,cic.loss.rho0.1.t_lo,294.3,294.25889674746145,rounded,True
+Table 10,cic.loss.rho0.1.t_hi,3978.7,3978.741103252539,rounded,True
+Table 10,cic.loss.rho0.1.p,0.032,0.03228286675460341,rounded,True
+Table 10,cic.loss.rho0.1.n_favour_DAE,0,0,exact,True
+Table 10,cic.loss.rho1.mean,2204.0,2204.0,rounded,True
+Table 10,cic.loss.rho1.t_lo,381.8,381.84486224102125,rounded,True
+Table 10,cic.loss.rho1.t_hi,4026.2,4026.1551377589785,rounded,True
+Table 10,cic.loss.rho1.p,0.028,0.028350366101990848,rounded,True
+Table 10,cic.loss.rho1.n_favour_DAE,0,0,exact,True
+Table 10,cic.loss.rho10.mean,2879.0,2879.0,rounded,True
+Table 10,cic.loss.rho10.t_lo,1084.9,1084.8816677887385,rounded,True
+Table 10,cic.loss.rho10.t_hi,4673.1,4673.118332211261,rounded,True
+Table 10,cic.loss.rho10.p,0.011,0.011200574973353278,rounded,True
+Table 10,cic.loss.rho10.n_favour_DAE,0,0,exact,True
+Table 10,cic.loss.rho100.mean,9629.0,9629.0,rounded,True
+Table 10,cic.loss.rho100.t_lo,1525.4,1525.3567531435929,rounded,True
+Table 10,cic.loss.rho100.t_hi,17732.6,17732.64324685641,rounded,True
+Table 10,cic.loss.rho100.p,0.03,0.02995985662037605,rounded,True
+Table 10,cic.loss.rho100.n_favour_DAE,0,0,exact,True
+Table 10,unsw.loss.rho0.1.mean,-841.3,-841.3,rounded,True
+Table 10,unsw.loss.rho0.1.t_lo,-1607.6,-1607.6416262203606,rounded,True
+Table 10,unsw.loss.rho0.1.t_hi,-75.0,-74.95837377963937,rounded,True
+Table 10,unsw.loss.rho0.1.p,0.038,0.03810200957408298,rounded,True
+Table 10,unsw.loss.rho0.1.n_favour_DAE,5,5,exact,True
+Table 10,unsw.loss.rho1.mean,-759.4,-759.4,rounded,True
+Table 10,unsw.loss.rho1.t_lo,-1549.2,-1549.152770201788,rounded,True
+Table 10,unsw.loss.rho1.t_hi,30.4,30.352770201787962,rounded,True
+Table 10; Section 4.7; Section 5.3,unsw.loss.rho1.p,0.056,0.055821251296255044,rounded,True
+Table 10,unsw.loss.rho1.n_favour_DAE,5,5,exact,True
+Table 10,unsw.loss.rho10.mean,59.6,59.6,rounded,True
+Table 10,unsw.loss.rho10.t_lo,-2309.0,-2308.9653851241737,rounded,True
+Table 10,unsw.loss.rho10.t_hi,2428.2,2428.1653851241736,rounded,True
+Table 10,unsw.loss.rho10.p,0.948,0.9476556317034196,rounded,True
+Table 10,unsw.loss.rho10.n_favour_DAE,2,2,exact,True
+Table 10,unsw.loss.rho100.mean,8249.6,8249.6,rounded,True
+Table 10,unsw.loss.rho100.t_lo,-14503.1,-14503.05549408794,rounded,True
+Table 10,unsw.loss.rho100.t_hi,31002.3,31002.25549408794,rounded,True
+Table 10,unsw.loss.rho100.p,0.371,0.3710441763233068,rounded,True
+Table 10,unsw.loss.rho100.n_favour_DAE,1,1,exact,True
+Section 4.7 (one interval of rho),unsw.loss.n_resolved_intervals,1,1,exact,True
+Section 4.7; Fig. 3,unsw.loss.resolved0.favoured,DAE,DAE,exact,True
+Section 4.7; Section 5.3; Section 6.1; Fig. 3; Abstract,unsw.loss.resolved0.rho_upper,0.782,0.7821898681457343,rounded,True
+Section 4.7 (one interval of rho),cic.loss.n_resolved_intervals,1,1,exact,True
+Section 4.7; Fig. 3,cic.loss.resolved0.favoured,AE,AE,exact,True
+Section 4.7; Section 5.4; Fig. 3,cic.loss.resolved0.rho_upper,275.782,275.7817345401485,rounded,True
+Section 4.8,cic.conf.n_AE_configs_in_dominance_and_tradeoff,20,20,exact,True
+Section 4.8,cic.conf.n_DAE_configs_in_dominance_and_tradeoff,20,20,exact,True
+Section 4.8,unsw.conf.n_AE_configs_in_dominance_and_tradeoff,20,20,exact,True
+Section 4.8,unsw.conf.n_DAE_configs_in_dominance_and_tradeoff,20,20,exact,True
